@@ -18,5 +18,5 @@ Before you start, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd demo-node-server
+   git clone https://github.com/mohammadsahil01/RNDeeplinkServer
+   cd RNDeeplinkServer
